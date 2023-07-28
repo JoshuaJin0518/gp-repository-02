@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zoujin>
+    <bean class="bean.ZouJin" name="zoujin">
+        <constructor-arg name="name" value="zoujin"/>
+        <constructor-arg name="age" value="66"/>
+    </bean>
+    <bean class="bean.ZouJin" name="zoujin2">
+        <constructor-arg name="name" value="zoujin2"/>
+        <constructor-arg name="age" value="66"/>
+    </bean>
+</zoujin>
